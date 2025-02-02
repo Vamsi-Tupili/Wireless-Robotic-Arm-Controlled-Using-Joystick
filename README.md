@@ -1,1 +1,2 @@
 # Bluetooth-Wireless-Robotic-Arm-Controlled-Using-Joystick
+This project focuses on designing and implementing a wireless robotic arm that can be controlled using a joystick. The robotic arm is capable of performing precise movements and tasks, making it suitable for applications in automation, manufacturing, and remote operations. The wireless interface allows the user to control the arm from a distance, increasing its versatility and usability.
